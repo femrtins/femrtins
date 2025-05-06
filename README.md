@@ -1,15 +1,7 @@
 # 👋 Olá! Eu sou Fernanda Martins
 
-🎓 Estudante de Ciência da Computação  
+🎓 Sou estudante de Ciência da Computação e estou construindo minha carreira na área de desenvolvimento. Tenho interesse especial por **front-end** ,**back-end** e **bancos de dados**
 🚀 Em busca da primeira oportunidade na área de tecnologia  
-
----
-
-## 🧠 Sobre mim
-
-Sou estudante de Ciência da Computação e estou construindo minha carreira na área de desenvolvimento. Tenho interesse especial por **front-end** ,**back-end** e **bancos de dados**
-
-Gosto de aprender na prática e compartilhar meu progresso aqui no GitHub!
 
 ---
 
